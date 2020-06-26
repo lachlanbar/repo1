@@ -1,6 +1,6 @@
 import datetime
 from datetime import date
-def candle_csv():
+def market_candle_csv():
     import requests
     import csv
     import datetime
